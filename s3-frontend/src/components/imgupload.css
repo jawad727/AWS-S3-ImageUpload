@@ -1,0 +1,9 @@
+.imgUploadContainer {
+    display: flex;
+  flex-direction: column;
+}
+
+.logo {
+    height: 100px;
+
+}
